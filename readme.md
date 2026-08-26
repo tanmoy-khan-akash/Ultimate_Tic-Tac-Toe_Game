@@ -56,7 +56,7 @@ Some future improvements:
 
 ### Usage
 
-Go to the deployed website: <tanmoy-khan-akash.github.io/Ultimate_Tic-Tac-Toe_Game/index.html>
+Go to the deployed website: <https://tanmoy-khan-akash.github.io/Ultimate_Tic-Tac-Toe_Game/index.html>
 
 To run the application locally:
 
